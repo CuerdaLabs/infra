@@ -1,3 +1,5 @@
+# Native CMakeLists.txt for the Infra library
+# This file is part of the Infra library, a C++ library for building
 ###############################################################################
 #  Copyright (c) 2016-2023 Joel de Guzman
 #
